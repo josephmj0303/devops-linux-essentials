@@ -4,6 +4,7 @@ A complete Linux fundamentals guide based on my DevOps learning journey.
 This repository documents essential Linux commands, system administration tasks, networking, permissions, services, and basic scripting — everything required for becoming a DevOps engineer.
 
 📌 What This Repo Contains
+
 1️⃣ Linux Commands
 
 Inside 01-commands/:
@@ -51,11 +52,13 @@ Exit codes
 4️⃣ Cheatsheets
 
 Inside 04-cheatsheets/:
+
 Quick reference PDFs for:
 
 Linux
 
 Bash
+
 
 🧰 Tech Stack
 
@@ -69,9 +72,11 @@ Networking Tools (ping, netstat, ss, curl)
 
 Package Managers (apt, yum, dnf)
 
+
 📚 Why This Repo?
 
 Linux is the foundation of DevOps.
+
 This repo demonstrates:
 
 Strong Linux fundamentals
@@ -84,6 +89,7 @@ Beginner-level scripting automation
 
 It serves as the base for all advanced DevOps tools (Git, Docker, Kubernetes, AWS, Jenkins, etc.)
 
+
 🚀 Next Repos in My DevOps Portfolio
 
 VProfile DevOps Project
@@ -95,6 +101,7 @@ Terraform + Ansible Automation
 Docker + Kubernetes + Helm
 
 GitOps Project
+
 
 ⭐ Contribute / Suggestions
 
