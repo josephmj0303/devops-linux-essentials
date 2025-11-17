@@ -1,109 +1,97 @@
-🐧 DevOps Linux Essentials
+# 🐧 DevOps Linux Essentials
 
-A complete Linux fundamentals guide based on my DevOps learning journey.
-This repository documents essential Linux commands, system administration tasks, networking, permissions, services, and basic scripting — everything required for becoming a DevOps engineer.
+A complete **Linux fundamentals guide** based on my DevOps learning journey.  
+This repository documents essential Linux commands, system administration tasks, networking, permissions, services, and basic scripting — everything required to become a DevOps engineer.
 
-📌 What This Repo Contains
+---
 
-1️⃣ Linux Commands
+## 📌 What This Repo Contains
 
-Inside 01-commands/:
+### **1️⃣ Linux Commands**
+Located in: `01-commands/`
 
-Basic file & directory operations
+Includes:
+- Basic file & directory operations  
+- Permissions & ownership  
+- Process & job management  
+- Networking tools  
+- System info & monitoring  
 
-Permissions & ownership
+---
 
-Process and job management
+### **2️⃣ System Administration**
+Located in: `02-system-administration/`
 
-Networking tools
+Covers:
+- Managing systemd services  
+- Package management (`apt`, `yum`, `dnf`)  
+- Disk, storage & filesystem commands  
+- Logs & troubleshooting techniques  
 
-System info & monitoring
+---
 
-2️⃣ System Administration
+### **3️⃣ Shell Scripts**
+Located in: `03-scripts/`
 
-Inside 02-system-administration/:
+Scripts for:
+- Backup automation  
+- Cleanup utilities  
+- Monitoring scripts  
 
-Managing systemd services
+All scripts include:
+- Comments  
+- Logging  
+- Exit codes  
 
-Package management (apt, yum, dnf)
+---
 
-Disk, storage & filesystem commands
+### **4️⃣ Cheatsheets**
+Located in: `04-cheatsheets/`
 
-Logs & troubleshooting
+Quick-reference **PDFs/notes** for:
+- Linux  
+- Bash  
 
-3️⃣ Shell Scripts
+---
 
-Inside 03-scripts/:
+## 🧰 Tech Stack
 
-Backup automation
+- Linux (Ubuntu / Debian / CentOS)  
+- Bash Scripting  
+- systemd  
+- Networking Tools (`ping`, `ss`, `netstat`, `curl`)  
+- Package Managers (`apt`, `yum`, `dnf`)  
 
-Cleanup utility
+---
 
-Monitoring scripts
+## 📚 Why This Repo?
 
-Scripts include:
-
-Comments
-
-Logging
-
-Exit codes
-
-4️⃣ Cheatsheets
-
-Inside 04-cheatsheets/:
-
-Quick reference PDFs for:
-
-Linux
-
-Bash
-
-
-🧰 Tech Stack
-
-Linux (Ubuntu / Debian / CentOS)
-
-Bash Scripting
-
-Systemd
-
-Networking Tools (ping, netstat, ss, curl)
-
-Package Managers (apt, yum, dnf)
-
-
-📚 Why This Repo?
-
-Linux is the foundation of DevOps.
+Linux is the **foundation of DevOps**.
 
 This repo demonstrates:
+- Strong Linux fundamentals  
+- Ability to document and organize knowledge  
+- Hands-on system administration skills  
+- Beginner-level scripting automation  
 
-Strong Linux fundamentals
+It serves as the base for all advanced DevOps tools:  
+**Git, Docker, Kubernetes, AWS, Jenkins, Ansible, Terraform, Helm, GitOps**, and more.
 
-Ability to document and organize knowledge
+---
 
-Hands-on system administration skills
+## 🚀 Next Repos in My DevOps Portfolio
 
-Beginner-level scripting automation
+- **VProfile DevOps Project**  
+- **CI/CD Pipelines** – Jenkins, GitHub Actions, GitLab  
+- **Terraform + Ansible Automation**  
+- **Docker + Kubernetes + Helm**  
+- **GitOps Project**
 
-It serves as the base for all advanced DevOps tools (Git, Docker, Kubernetes, AWS, Jenkins, etc.)
+---
 
+## ⭐ Contribute / Suggestions
 
-🚀 Next Repos in My DevOps Portfolio
-
-VProfile DevOps Project
-
-CI/CD Pipelines – Jenkins, GitHub Actions, GitLab
-
-Terraform + Ansible Automation
-
-Docker + Kubernetes + Helm
-
-GitOps Project
-
-
-⭐ Contribute / Suggestions
-
-This is part of my DevOps learning.
+This is part of my DevOps learning journey.  
 Suggestions or improvements are welcome!
+
+---
