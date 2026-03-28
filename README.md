@@ -3,7 +3,6 @@
 ![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnu-bash)
 ![CLI](https://img.shields.io/badge/CLI-Terminal-black?logo=gnome-terminal)
 ![DevOps](https://img.shields.io/badge/DevOps-Foundations-orange)
-![License](https://img.shields.io/github/license/josephmj0303/devops-linux-essentials)
 
 A complete **Linux fundamentals guide** based on my DevOps learning journey.  
 This repository documents essential Linux commands, system administration tasks, networking, permissions, services, and basic scripting — everything required to become a DevOps engineer.
