@@ -48,7 +48,7 @@ devops-linux-essentials/
 
 ---
 
-## 🧠 Topics Covered (Aligned with Repository)
+## 🧠 Topics Covered 
 
 ### 📘 01 - Getting Started
 
